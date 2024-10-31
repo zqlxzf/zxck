@@ -1,0 +1,54 @@
+{ 
+	"urls": [
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/饭太硬.json", 
+            "name": "饭太硬" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/小米.json", 
+            "name": "小米" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/潇洒.json", 
+            "name": "潇洒" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/蜂蜜.json", 
+            "name": "真心" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/王二小.json", 
+            "name": "王二小放牛娃" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/肥猫.json", 
+            "name": "肥猫" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/xyqonlinerule/main/json/香雅晴.json", 
+            "name": "香雅晴" 
+        },
+       
+        {  
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/南风.json", 
+            "name": "南风" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/OK.json", 
+            "name": "OK" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/PG(影视专用).json", 
+            "name": "PG(影视专用)" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/PizazzGY.json", 
+            "name": "PizazzGY" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/骚零.json", 
+            "name": "骚零" 
+        }
+     
+   ]
+}
