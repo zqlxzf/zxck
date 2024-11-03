@@ -1,0 +1,51 @@
+{ 
+	"urls": [
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/摸鱼儿.json", 
+            "name": "摸鱼儿" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/菜妮丝.json", 
+            "name": "菜妮丝" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/运输车{跑马灯}.json", 
+            "name": "运输车{跑马灯}" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/短剧.json", 
+            "name": "短剧" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/D佬魔改.json", 
+            "name": "D佬魔改" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/巧技.json", 
+            "name": "巧技" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/xyqonlinerule/main/json/云星日记.json", 
+            "name": "云星日记" 
+        },
+       
+        {  
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/欧歌.json", 
+            "name": "欧歌" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/码点小干货.json", 
+            "name": "码点小干货" 
+        },
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/高天流云.json", 
+            "name": "高天流云" 
+        },
+  
+        { 
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/json/俊佬.json", 
+            "name": "俊佬" 
+        }
+     
+   ]
+}
