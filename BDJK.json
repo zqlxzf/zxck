@@ -2,7 +2,7 @@
 {
   "urls": [
      {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/wangpan/wangpan.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/网盘/wangpan.json",
       "name": "🚀①网盘线路"
     },
      {
@@ -10,11 +10,11 @@
       "name": "🚀②One线路"
     },		
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/daozhang/daozhang.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/道长/daozhang.json",
       "name": "🚀③道长线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/zhenxin/zhenxin.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/真心/zhenxin.json",
       "name": "🚀④真心线路"
     },	
     {
@@ -22,19 +22,19 @@
       "name": "🚀⑤OK线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/fty/fty.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/饭太硬/fty.json",
       "name": "🚀⑥饭太硬线路"
     }, 
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/xiaosa/xiaosa.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/潇洒/xiaosa.json",
       "name": "🚀⑦潇洒线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/laohu/laohu.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/老虎/laohu.json",
       "name": "🚀⑧老虎线路"
     }, 		 
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/feimao/feimao.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/肥猫/feimao.json",
       "name": "🚀⑨肥猫线路"
     },		
     {
@@ -42,28 +42,40 @@
       "name": "🚀⑩T4线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/wangerxiao/wangerxiao.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/王二小/wangerxiao.json",
       "name": "🚀⑪放牛线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/moyu/moyu.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/摸鱼儿/moyu.json",
       "name": "🚀⑫摸鱼线路"
     },	
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/kaixin/kaixin.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/天天开心/kaixin.json",
       "name": "🚀⑬开心线路"
     },	
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/miaoyingshi/miaoyingshi.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/猫影视/miaoyingshi.json",
       "name": "🚀⑭喵影视线路"
     },
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/nanfeng/nanfeng.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/南风/nanfeng.json",
       "name": "🚀⑮南风线路"
     }, 
     {
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/qinglong/qinglong.json",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/PG/api.json",
+      "name": "🚀⑮PG线路"
+    }, 
+    {
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/动漫帝国/dmtd.json",
+      "name": "🚀⑮动漫线路"
+    }, 
+    {
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/短剧场/duanju.json",
+      "name": "🚀⑮短剧线路"
+    }, 
+   {
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zqlxzf/zxck/main/青龙/qinglong.json",
       "name": "🚀⑯青龙线路"
-	}
+    }
   ]
 }
